@@ -1,0 +1,13 @@
+body {
+    background: orange;
+  }
+  
+  .nav {
+    background-color: rgb(143, 204, 255);
+    font-size: 18;
+    align-self: center;
+  }
+  
+  .foot {
+    align-self: center;
+  }
